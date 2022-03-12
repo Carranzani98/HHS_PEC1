@@ -1,0 +1,1 @@
+{"mappings":"AAAA,KAGC,kDAAwD,CADxD,aAAc,CADd,YAGD,CAEA,GACC,aAAc,CACd,mBACD","sources":["src/styles.css"],"sourcesContent":["body {\n\theight: 100vh;\n\tcolor: #1f1f1f;\n\tbackground: linear-gradient(to bottom, #bada55, #c0ffee);\n}\n\nh1 {\n\tcolor: hotpink;\n\tfont-family: cursive;\n}\n"],"names":[],"version":3,"file":"index.e7824d8b.css.map"}
